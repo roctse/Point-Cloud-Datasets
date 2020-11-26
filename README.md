@@ -1,7 +1,6 @@
 # Point Cloud Datasets
 
-参考网站：
-[郭玉兰](http://yulanguo.me/dataset.html)
+参考网站：[郭玉兰](http://yulanguo.me/dataset.html)
 
 ## 3D Model/Shape Retrieval Datasets
 
