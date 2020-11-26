@@ -20,6 +20,8 @@ ShapeNetSem is a smaller, more densely annotated subset consisting of 12,000 mod
 
 ### ModelNet Dataset
 
+<p align="center"> <img src="./Princeton ModelNet.png" width="95%"> </p>
+
 It contains 127915 3D CAD models from 662 categories. 
 
 [download](http://modelnet.cs.princeton.edu/)
