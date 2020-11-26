@@ -1,12 +1,15 @@
 # Point Cloud Datasets
 
+参考网站：
+[郭玉兰](http://yulanguo.me/dataset.html)
+
 ## 3D Model/Shape Retrieval Datasets
 
 ### ShapeNet Dataset
 
 The ShapeNetCore covers 55 common object categories with about 51,300 unique 3D models. The ShapeNetSem is a smaller, more densely annotated subset consisting of 12,000 models spread over a broader set of 270 categories. 
 
-[dowanload](https://www.shapenet.org/)
+[download](https://www.shapenet.org/)
 
 ### ModelNet Dataset
 
