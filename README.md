@@ -2,6 +2,8 @@
 
 参考网站：[[郭玉兰]](http://yulanguo.me/dataset.html)
 
+待整理：三维点云数据集—目标检测、分类、匹配     https://blog.csdn.net/tjm059/article/details/82771255
+
 ## 3D Model/Shape Retrieval Datasets
 
 ### ShapeNet Dataset
