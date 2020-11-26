@@ -8,6 +8,12 @@
 
 The ShapeNetCore covers 55 common object categories with about 51,300 unique 3D models. The ShapeNetSem is a smaller, more densely annotated subset consisting of 12,000 models spread over a broader set of 270 categories. 
 
+ShapeNet consists of several subsets:
+ShapeNetCore
+ShapeNetCore is a subset of the full ShapeNet dataset with single clean 3D models and manually verified category and alignment annotations. It covers 55 common object categories with about 51,300 unique 3D models. The 12 object categories of PASCAL 3D+, a popular computer vision 3D benchmark dataset, are all covered by ShapeNetCore.
+ShapeNetSem
+ShapeNetSem is a smaller, more densely annotated subset consisting of 12,000 models spread over a broader set of 270 categories. In addition to manually verified category labels and consistent alignments, these models are annotated with real-world dimensions, estimates of their material composition at the category level, and estimates of their total volume and weight.
+
 [download](https://www.shapenet.org/)
 
 ### ModelNet Dataset
